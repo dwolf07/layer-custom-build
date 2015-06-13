@@ -1,0 +1,9 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+.idea/gradle.xml
+quick-start-android.iml
+.idea/misc.xml
